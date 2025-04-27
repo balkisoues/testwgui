@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1745749846 source:/home/balkis/Téléchargements/projetc/solitaire/utils.cpp
+	"utils.hpp"
+	<fstream>
+	<sstream>
+	<iostream>
+
+1745749868 /home/balkis/Téléchargements/projetc/solitaire/utils.hpp
+	<string>
+
+1745750636 source:/home/balkis/Téléchargements/projetc/solitaire/board.cpp
+	"board.hpp"
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1745750600 /home/balkis/Téléchargements/projetc/solitaire/board.hpp
+	<vector>
+	<string>
+
+1745764583 source:/home/balkis/Téléchargements/projetc/solitaire/main.cpp
+	<SFML/Graphics.hpp>
+	"board.hpp"
+	"utils.hpp"
+	"game_state.hpp"
+	<iostream>
+
+1745750858 /home/balkis/Téléchargements/projetc/solitaire/game_state.hpp
+	<vector>
+
+1745750886 source:/home/balkis/Téléchargements/projetc/solitaire/game_state.cpp
+	"game_state.hpp"
+
